@@ -1,7 +1,7 @@
 from datetime import datetime, timezone
 from typing import Any, Dict, List, Optional, Tuple
 from decimal import Decimal
-from Metrics import SegmentMetrics
+from schemas import SegmentMetrics
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
